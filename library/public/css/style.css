@@ -1,0 +1,51 @@
+body{
+    /* background-color: black; */
+    background-image:url(/images/blur-book.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.v11{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+.v11 h1{
+    color: rgba(10, 10, 10, 0.8);
+    font-size: 70px;
+}
+.v12{
+    position: absolute;
+    top: 62%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.v13{
+    border: lavender solid 1px;
+    padding: 10px 30px;
+    color: lavenderblush;
+    text-decoration: none;
+    transition: 0.3s ease;
+    
+}
+.v13:hover {
+    background-color: lavenderblush;
+    color: #000;
+
+}
+.containervpn{
+    margin: 20px 50px;
+}
+
+
+.containervpn1{
+    margin: 20px 150px;
+}
+
+
+.containervpn2{
+    margin: 20px 200px;
+}
